@@ -1,9 +1,9 @@
 <h3>Daily Challenge:</h3>
+<p><strong>Explain the following agile methodologies Scrum, Kanban, Extreme Programming.</strong><p>
 <ol>
   <li>
-    Explain the following agile methodologies Scrum, Kanban, Extreme Programming.<br>
-  Who are the members of an agile team and what are their roles?<br>
-  List 5 Project Management Tools<br>
-  List the Phases of Software Development Life Cycle.<br>
+  Who are the members of an agile team and what are their roles?
+  List 5 Project Management Tools
+  List the Phases of Software Development Life Cycle.
   </li>
  </ol>
